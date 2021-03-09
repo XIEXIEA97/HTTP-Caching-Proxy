@@ -1,0 +1,13 @@
+GET http://www.cplusplus.com/img/welcometo.gif HTTP/1.1
+Host: www.cplusplus.com
+Proxy-Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en
+Cookie: __utma=62705790.385428269.1615164507.1615164507.1615164507.1; __utmc=62705790; __utmz=62705790.1615164507.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __utmb=62705790.1.10.1615164507; __aaxsc=1
+If-None-Match: "45f2-59fe47a4a7d"
+
+

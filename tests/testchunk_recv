@@ -1,0 +1,9 @@
+GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1
+User-Agent: Wget/1.19.2 (darwin16.7.0)
+Accept: */*
+Accept-Encoding: gzip
+Host: www.httpwatch.com
+Connection: Keep-Alive
+Proxy-Connection: Keep-Alive
+
+

@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  proxy:
+    build: ./proxy
+    user: root
+    command: ./proxy
+    volumes:
+      - ./logs:/var/log/erss
+    ports:
+      - "12345:12345"

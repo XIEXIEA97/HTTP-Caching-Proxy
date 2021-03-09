@@ -1,0 +1,8 @@
+CONNECT www.youtube.com:443 HTTP/1.1
+Host: www.youtube.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+
+
+
+

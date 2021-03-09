@@ -1,0 +1,8 @@
+GET http://www.google.com/ HTTP/1.1
+User-Agent: Wget/1.19.4 (linux-gnu)
+Accept: */*
+Accept-Encoding: identity
+Host: www.google.com
+Connection: Keep-Alive
+Proxy-Connection: Keep-Alive
+
